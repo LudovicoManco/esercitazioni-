@@ -23,3 +23,9 @@
 
 
 ## Esercizio 06 Sonar: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione06/1_Sonar.ipynb)
+
+
+## Esercizio 06 Intro_Pipeline: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione06/22_Intro_Pipeline.ipynb)
+
+
+## Esercizio 06 Titanic_Cross: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione06/23_Titanic_Cross.ipynb)
