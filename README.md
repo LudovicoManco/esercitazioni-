@@ -28,7 +28,7 @@
 ## Esercizio 06 Intro_Pipeline: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione06/22_Intro_Pipeline.ipynb)
 
 
-## Esercizio 07 Solut_tips: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione07/19_solut_tips.ipynb)
+## Esercizio 07 Solut_tips: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione07/19_solut_tips.ipynb)
 
 
-## Esercizio 07 RE_intro: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/IFTS22-main/Esercitazione07/30_RE_intro.ipynb)
+## Esercizio 07 RE_intro: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione07/30_RE_intro.ipynb)
