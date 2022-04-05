@@ -37,3 +37,6 @@
 
 ## Esercizio 08 WorldCloud: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione08/28_WordCloud.ipynb)
 
+
+
+## Esercizio 09 Clean_re.jpynb: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione09/02_Clean_re.ipynb)
