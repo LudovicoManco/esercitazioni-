@@ -42,4 +42,4 @@
 ## Esercizio 09 Clean_re.jpynb: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione09/02_Clean_re.ipynb)
 
 
-## Esercizio 10 NLP.jpynb: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione10)
+## Esercizio 10 NLP.jpynb: Esercizio Python[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LudovicoManco/esercitazioni-/blob/main/Esercitazione10/3_esercizi_NLP.txt)
